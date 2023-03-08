@@ -1,0 +1,10 @@
+This JavaScript script automates sending a specified number of POST requests to a given URL using Puppeteer and prompt-sync libraries. 
+It launches a headless browser instance and a new incognito browser context and navigates to the target URL.
+For each request, it creates an empty object to represent the POST parameters and sends the POST request using fetch function in the context of the page.
+The script logs whether the request was successful or failed based on the HTTP response status code.
+And it closes the headless browser instance.
+Note that the script does not specify any POST parameters, 
+so you would need to modify it to set the POST parameters according to the requirements of the target URL.
+Along with the "https" or "http" parameters, you will need to modify them directly on the code for them to work!
+
+By FireEagle#4729 for ethical purpose.
