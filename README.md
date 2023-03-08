@@ -13,7 +13,7 @@ It's very easy to setup just like any javascript application!
 If you're new to this you can get started by installing node.js locally, and using ```node -v``` to confirm that
 you have installed node app. (Runtime JavaScript)
 
-Once you have node.js setup, you can do ahead and cd to PosKills directory which should look like this : ```C:\users\FireEagle\OneDrive\Desktop\PosKill>```
+Once you have node.js setup, you can do ahead and cd to PosKills directory which should look like this : ```C:\users\FireEagle\OneDrive\Desktop\PostKill>```
 And do ```node index.js``` <br> That should start the app and once the app is started you can go ahead and have some fun testing ***Your own site***!
 
 <li>Side Notes : Majority of the websites are surely immune to this and it won't effect them at all, the real purpose of this is to simulate high traffic on your site 
